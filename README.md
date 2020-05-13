@@ -1,4 +1,5 @@
 # BigRotinas
+
 * Projeto elaborado para uma rede de Supermercado em Manaus - AM
    * __Funcionalidades__:
 
