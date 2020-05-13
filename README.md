@@ -1,5 +1,5 @@
 # BigRotinas
-
+![Principal](https://github.com/FrankCarrilho/BigRotinas/blob/master/resources/img/big.png)
 * Projeto elaborado para uma rede de Supermercado em Manaus - AM
    * __Funcionalidades__:
 
